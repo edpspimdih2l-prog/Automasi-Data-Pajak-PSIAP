@@ -6,7 +6,7 @@ Aplikasi Desktop modern berbasis Python yang diciptakan khusus untuk meringankan
 1. **Drafting FK PKP / NON PKP**: Langsung ubah identitas NPWP, Jenis Identitas, NIK, dan Negara pada master CSV secara sekejap.
 2. **Resubmission FK**: Ditolak PSIAP? Import data penolakan, lalu upload file master asli, aplikasi akan mencarikan fakturnya satu per satu.
 3. **RM Merging**: Cari kepingan kitab suci (Retur Masukan) di dalam folder, dan aplikasi akan meleburnya menjadi _Satu Kitab Suci Utuh_.
-4. **Update RM**: Sulap baja mentah Unduhan RM menjadi Pedang Pusaka `RFM` (*Credited*) yang sakti!
+4. **Update RM**: Transformasi format Unduhan RM dari PSIAP menjadi template `RFM` (*Credited*), dirancang khusus sebagai persiapan murni sebelum file di-upload ke program *Update No Faktur*.
 
 ## 📦 Cara Instalasi Modul (Untuk Developer)
 Jalankan perintah berikut di console Anda untuk menginstall kebergantungan Python:
